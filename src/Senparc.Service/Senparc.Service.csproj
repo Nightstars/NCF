@@ -23,7 +23,6 @@
 		<PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="5.0.1" />
 		<PackageReference Include="Qiniu.Shared" Version="7.2.15" />
 		<PackageReference Include="Senparc.NeuChar" Version="1.2.201" />
-		<PackageReference Include="Senparc.Weixin.MP" Version="16.10.601" />
 		<PackageReference Include="Senparc.Weixin.Open" Version="4.7.600" />
 		<PackageReference Include="Senparc.Weixin.WxOpen" Version="3.8.601" />
 		<PackageReference Include="Senparc.Ncf.Core" Version="0.6.104-beta1" />

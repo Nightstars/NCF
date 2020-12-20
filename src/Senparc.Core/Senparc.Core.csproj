@@ -34,7 +34,6 @@
     <PackageReference Include="Senparc.Weixin" Version="6.7.600" />
     <PackageReference Include="Senparc.Weixin.Cache.CsRedis" Version="0.1.600" />
     <PackageReference Include="Senparc.Weixin.Cache.Memcached" Version="2.6.600" />
-    <PackageReference Include="Senparc.Weixin.MP" Version="16.10.601" />
   </ItemGroup>
 
   <ItemGroup>

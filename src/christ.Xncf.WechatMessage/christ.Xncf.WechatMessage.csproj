@@ -33,6 +33,8 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Senparc.Ncf.XncfBase" Version="0.6.104-beta1" />
+    <PackageReference Include="Senparc.NeuChar" Version="1.3.200" />
+    <PackageReference Include="Senparc.Weixin.MP" Version="16.10.600" />
     <ProjectReference Include="..\Senparc.Core\Senparc.Core.csproj" />
     <ProjectReference Include="..\Senparc.Service\Senparc.Service.csproj" />
   </ItemGroup>
